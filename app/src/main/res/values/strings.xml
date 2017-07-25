@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">量子互助</string>
+    <string name="content">父母在慢慢变老,孩子在慢慢长大\n
+    \t\t\t\t\t为人子女,为人父母\n
+    \t\t我只希望他们都能健健康康</string>
+    <string name="call">若长时间没有收到验证码\n
+    \t\t请拨打客服电话\n
+    \t\t\t400-900-8690</string>
+</resources>
